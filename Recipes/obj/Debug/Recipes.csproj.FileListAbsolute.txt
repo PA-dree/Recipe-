@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\source\repos\Recipes\bin\Debug\Recipes.exe.config
+C:\Users\RC_Student_lab\source\repos\Recipes\bin\Debug\Recipes.exe
+C:\Users\RC_Student_lab\source\repos\Recipes\bin\Debug\Recipes.pdb
+C:\Users\RC_Student_lab\source\repos\Recipes\obj\Debug\Recipes.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Recipes\obj\Debug\Recipes.exe
+C:\Users\RC_Student_lab\source\repos\Recipes\obj\Debug\Recipes.pdb
