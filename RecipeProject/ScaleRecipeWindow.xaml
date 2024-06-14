@@ -1,0 +1,15 @@
+﻿<Window x:Class="RecipeProject.ScaleRecipeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Scale Recipe" Height="200" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Choose a scaling factor:" FontSize="16" FontWeight="Bold" Margin="5"/>
+            <RadioButton x:Name="HalfRadioButton" Content="0.5 (half)" GroupName="Scale" Margin="5"/>
+            <RadioButton x:Name="DoubleRadioButton" Content="2 (double)" GroupName="Scale" Margin="5"/>
+            <RadioButton x:Name="TripleRadioButton" Content="3 (triple)" GroupName="Scale" Margin="5"/>
+            <Button Content="Scale" Click="ScaleButton_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
